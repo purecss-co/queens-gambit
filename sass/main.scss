@@ -60,7 +60,7 @@ body {
       top: 2.4vmin;
       left: -0.5vmin;
       transform: rotate(6deg);
-      border-radius: 0% 100% 51% 49% / 86% 42% 58% 14%;
+      border-radius: 0 100% 51% 49% / 86% 42% 58% 14%;
       box-shadow: 4vmin -7.5vmin 0 0.5vmin $bg-color,
         -1vmin -5vmin 0 0.3vmin $bg-color, 32vmin -12vmin 0 4.5vmin $bg-color;
     }
@@ -73,7 +73,7 @@ body {
     top: -58vmin;
     left: 28.5vmin;
     transform: rotate(11deg);
-    border-radius: 50% 65% 100% 0% / 100% 100% 0% 0%;
+    border-radius: 50% 65% 100% 0 / 100% 100% 0 0;
 
     &::before {
       width: 25vmin;
